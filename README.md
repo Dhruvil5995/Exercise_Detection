@@ -22,5 +22,7 @@ of the webcam for a set amount of time. Posture landmark values are saved in a C
 during this time.
 To create a good dataset for the machine learning model, the X and Y values of each landmark are multiplied by the image width and height instead of taking each landmark's four points (X, Y, Z, and visibility).
 
-#### The system can be used for real-time exercise detection, providing instant feedback on the user's posture and performance. It can also be used for data analysis and machine learning, allowing researchers to study human movements and develop new exercise detection algorithms.
+# Result
+
+The system can be used for real-time exercise detection, providing instant feedback on the user's posture and performance. It can also be used for data analysis and machine learning, allowing researchers to study human movements and develop new exercise detection algorithms.
 
